@@ -12,8 +12,6 @@ vitalcheck-env/
 # Environment variables
 .env
 
-
-
 # Temporary files
 *.bak
 *.swp
