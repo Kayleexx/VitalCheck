@@ -7,7 +7,7 @@ class UserInterface:
     
     def get_user_input(self) -> Dict[str, str]:
         """Get health-related information from user"""
-        print("\n=== I'm VitalCheck: Your pookie health consultant ===")
+        print("\n=== I'm VitalCheck: Your pookie health consultant 🎀 ===")
         print("\nIMPORTANT: This system provides general health information only.")
         print("Always consult healthcare professionals for medical advice.")
         

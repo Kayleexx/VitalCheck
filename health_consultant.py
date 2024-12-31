@@ -16,29 +16,25 @@ def setup_logging():
     )
 
 def main():
-    # Setup logging
+
     setup_logging()
     logger = logging.getLogger(__name__)
     
-    # Initialize components that don't require config
+
     ui = UserInterface()
     agent_manager: Optional[AgentManager] = None
     
     try:
-        # Load configuration
         config = load_config()
         
-        # Initialize components that require config
         agent_manager = AgentManager(config['api_key'])
         report_generator = ReportGenerator()
         
-        # Get user input
         user_input = ui.get_user_input()
         
         # Process health information
         research_output = agent_manager.process_health_query(user_input)
         
-        # Generate and save report
         report_path = report_generator.generate_and_save(research_output, user_input)
         
         # Show results to user
