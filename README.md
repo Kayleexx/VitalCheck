@@ -1,4 +1,4 @@
-# VitalCheck: Your pookie health consultant
+# VitalCheck: Your pookie health consultant 🎀
 VitalCheck is an advanced system designed to facilitate seamless collaboration among multiple agents for achieving complex tasks. This project, developed as part of the Scrapybara Bounty Force submission, emphasizes modular design, robust error handling, and user-centric functionality to deliver a reliable, scalable solution.
 
 ---
