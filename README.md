@@ -5,7 +5,7 @@ VitalCheck is an advanced system designed to facilitate seamless collaboration a
 
 ## Features
 
-The **Collaborative Agents Framework** includes the following robust features:
+The **VitalCheck** includes the following robust features:
 
 ### 1. **Error Handling**
 - Comprehensive exception handling with proper propagation.
@@ -123,4 +123,6 @@ Example log snippet:
 ---
 
 
+## Demo
+![image](https://github.com/user-attachments/assets/0efdfbb5-52f1-47c2-93b4-fe0ca82547b7)
 
