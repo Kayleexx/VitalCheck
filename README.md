@@ -124,6 +124,5 @@ Example log snippet:
 
 
 ## Demo
-![image](https://github.com/user-attachments/assets/0efdfbb5-52f1-47c2-93b4-fe0ca82547b7)
-https://drive.google.com/file/d/1_5kJtZru3suSxdWCGwV7HtMpb7jviLfX/view?usp=sharing
+[![Watch the video](https://imgur.com/a/fEJstYn)](https://drive.google.com/file/d/1_5kJtZru3suSxdWCGwV7HtMpb7jviLfX/view?usp=sharing) 
 
